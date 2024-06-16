@@ -1,6 +1,7 @@
 # 294A Final Project: Solar Installations in California
 **Theo Dubus**
-*This is a Jupyter notebook containing my final project for UC Santa Cruz Econ 294A Python Lab Spring 2024. *
+
+*This is a Jupyter notebook containing my final project for UC Santa Cruz Econ 294A Python Lab Spring 2024.*
 
 Residential solar power is a rapidly-growing market in California. As the increasing
 effects of climate change reveal weaknesses in existing electrical infrastructure and the
